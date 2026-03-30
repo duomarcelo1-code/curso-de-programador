@@ -1,0 +1,4 @@
+carne
+huevos
+harina
+sal
