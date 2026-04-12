@@ -1,0 +1,33 @@
+h1{
+    color: violet; /*color-de-la-tipografia*/
+    background-color: blue; /*fondo-color*/ 
+    text-transform: uppercase; /*mayuscula*/  
+    text-align: center; /*centrar-texto*/
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif; /*cambio-de-fuente-tipografia*/
+    color: cadetblue;
+    font-size: 35px; /*tamano-de-la-fuente*/
+
+}
+p{
+    color: chocolate; 
+}
+
+.destacados{
+    color: blue;
+    font-weight: bold; /*NEGRITRA - peso-de-la-tipografia*/
+    font-style: italic; /*letra-de-costado*/
+
+}
+
+#caja{
+    background-color: aqua;
+    width: 500px; /*ancho-de-la-letra*/
+    padding: 10px; /*margen-intero"desde el borde hacia adentro"*/
+    border: 25px solid black; /*ancho-del-borde */
+    text-align: center;
+    box-sizing: border-box;/*administrador-de-tamano*/
+    margin-left: 100px; /*separacion*/
+}
